@@ -33,4 +33,5 @@ conda install -y -q -c deepchem -c rdkit -c conda-forge -c omnia `
     pytest-cov `
     flaky
 
+pip install pyGPGO
 pip install -U tensorflow tensorflow-probability
